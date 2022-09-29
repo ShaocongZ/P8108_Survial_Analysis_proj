@@ -1,0 +1,12 @@
+---
+title: "survival analysis"
+author: "Shaocong Zhang"
+date: '2022-09-29'
+output: html_document
+---
+
+Test!
+
+```{r}
+library(survival)
+```
