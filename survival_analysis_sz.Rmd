@@ -11,3 +11,8 @@ Test!
 data(cancer, package="survival")
 gbsg
 ```
+
+
+```{r}
+write.csv(gbsg,"./GBSG.csv", row.names = FALSE)
+```
